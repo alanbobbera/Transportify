@@ -1,6 +1,6 @@
 using System;
 
-public class AlgoritemZaIzraèunPoti {
+public class AlgoritemZaIzraÃ¨unPoti {
 	public void PridobiPodatkeOPrevoznihSredstev() {
 		throw new System.NotImplementedException("Not implemented");
 	}
@@ -10,7 +10,7 @@ public class AlgoritemZaIzraèunPoti {
 	public void PridobiVreme() {
 		throw new System.NotImplementedException("Not implemented");
 	}
-	public void IzraèunajPot() {
+	public void IzraÃ¨unajPot() {
 		throw new System.NotImplementedException("Not implemented");
 	}
 
